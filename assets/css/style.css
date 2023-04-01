@@ -78,7 +78,7 @@ nav h3{
     font-size: 2vh;
 }
 .main2{
-    background: url(./assets/img/Attaque-Des-Titans-PS4-1.png);
+    background: url("./assets/img/Attaque-Des-Titans-PS4-1.png");
     background-size: cover ;
     background-repeat: no-repeat;
     width: 100%;
