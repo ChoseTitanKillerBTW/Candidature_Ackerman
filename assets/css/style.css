@@ -48,7 +48,7 @@ nav h3{
     font-size: 6vh;
 }
 .main1{
-    background-image: url(../assets/img/image1.png);
+    background-image: url(../img/image1.png);
     width: 100%;
     height: 100vh;
 }
@@ -78,7 +78,7 @@ nav h3{
     font-size: 2vh;
 }
 .main2{
-    background: url(../assets/img/Attaque-Des-Titans-PS4-1.png);
+    background: url(../img/Attaque-Des-Titans-PS4-1.png);
     background-size: cover ;
     background-repeat: no-repeat;
     width: 100%;
@@ -151,7 +151,7 @@ h1{
     font-size: 6vh;
 }
 .header3{
-    background-image: url(../assets/img/rp_trost_tdv110000.png);
+    background-image: url(../img/rp_trost_tdv110000.png);
     margin-top: -2vh;
     background-size: cover;
     height: 80%;
