@@ -1,0 +1,340 @@
+body{
+    margin: 0;
+    font-family: AKA Josefin Sans Flex,Josefin-Sans-Flex-Fallback,sans-serif;
+}
+
+@font-face {
+    font-family: 'Metropolis';
+    src: url("/assets/font/Metropolis-Regular.otf");
+}
+header{
+    height: 98vh;
+}
+
+.video1{
+    object-fit:cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-top: 2vh;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 4%;
+    width: 100%;
+}
+nav h3{
+    margin-right: 40%;
+    font-size: 200%;
+    padding-left: 2%;
+}
+.head h2{
+    color: white;
+    font-family: AKA Josefin Sans Flex,Josefin-Sans-Flex-Fallback,sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 55vh;
+    font-size: 6vh;
+}
+.main1{
+    background-image: url("/assets/img/image1.png");
+    width: 100%;
+    height: 100vh;
+}
+.main1-row1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+}
+
+.main1-row1-column1{
+    color: white;
+    font-size: 2vh;
+}
+.caractere{
+    padding-left: 5vh;
+}
+.chosedevant{
+    width: 13vh;
+}
+.chose_cote{
+    width: 14.5vh;
+}
+
+.main1-row1-column3{
+    color: white;
+    font-size: 2vh;
+}
+.main2{
+    background: url(/assets/img/Attaque-Des-Titans-PS4-1.png);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+    font-size: 2.5vh;
+    color: white;
+}
+
+.img_peche{
+    /* padding-top: 1%; */
+    width: 60vh;
+}
+.dom{
+    font-size: 4vh;
+    color: white;
+    margin: 0;
+}
+h1{
+    margin: 0;
+    padding-top: -1vh;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 5vh;
+}
+.main2-col1 a{
+    color: white;
+    padding-top: 1vh;
+    padding-bottom: 3vh;
+}
+.main2-col{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 15vh;
+}
+
+.main2-col1{
+    margin-right: 30vh;
+    padding-left: 5vh;
+}
+.content{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    font-size: 2vh;
+    padding-left: 26%;
+}
+
+.header2{
+    height: 75vh;
+}
+
+.video2{
+    object-fit:cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 75%;
+    width: 100%;
+}
+.head2 h2{
+    color: white;
+    font-family: AKA Josefin Sans Flex,Josefin-Sans-Flex-Fallback,sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 45vh;
+    font-size: 6vh;
+}
+.header3{
+    background-image: url('/assets/img/rp_trost_tdv110000.jpg');
+    margin-top: -2vh;
+    background-size: cover;
+    height: 80%;
+}
+.header3 h2{
+    padding-bottom: 2%;
+}
+.row1-el1-part1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* padding-left: 10vh; */
+}
+.row1-el1-part1 img{
+    width: 5vh;
+}
+
+.row1-el1-part1 h3{
+    font-style:normal;
+    color: #393939;
+    padding-left: 1.5vh;
+    font-family: 'Metropolis';
+}
+
+.main-info{
+    font-family: 'Metropolis' ;
+}
+.discord{
+    font-family: 'Metropolis' ;
+    color: #666666;
+    font-style:dark;
+}
+.column1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10vh;
+}
+.column2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10vh;
+    padding-top: 2.3vh;
+}
+.column3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10vh;
+    padding-top: 2.3vh;
+    margin: 2vh;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+
+.h2-info{
+    font-size: 5vh;
+}
+
+.main2-col1 a:hover{
+    color: yellow;
+}
+.body-story{
+    font-family: 'Metropolis';
+}
+
+.head4 h2{
+    color: white;
+    font-family: AKA Josefin Sans Flex,Josefin-Sans-Flex-Fallback,sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-top: 22vh;
+    font-size: 6vh;
+}
+
+.video4{
+    object-fit:cover;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -1;
+    height: 60%;
+    width: 100%;
+}
+.header4{
+    height: 58vh;
+}
+
+.container h2{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 8vh;
+}
+.chapt1-part1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 8vh;
+}
+.textL{
+    font-size: 2.5vh;
+    padding-left: 30vh;
+    padding-right: 1.5vh;
+    color: #666666;
+    line-height: 3.5vh;
+}
+.imgR{
+    padding-right: 30vh;
+    padding-left: 1.5vh;
+}
+.imgR img{
+    width: 60vh;
+}
+
+.chapt1-part2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 8vh;
+}
+.imgL{
+    padding-left: 30vh;
+    padding-right: 1.5vh;
+}
+.imgL img{
+    width: 60vh;
+}
+
+.textR{
+    font-size: 2.5vh;
+    padding-right: 30vh;
+    padding-left: 1.5vh;
+    color: #666666;
+    line-height: 3.5vh;
+}
+.textL h3{
+    color: #393939;
+}
+.textR h3{
+    color: #393939;
+}
+.textF{
+    line-height: 3.5vh;
+    color: #666666;
+    font-size: 2.5vh;
+    display: flex;
+    justify-content: center;
+    padding-right: 30vh;
+    padding-left: 30vh;
+    align-items: center;
+}
+.chap1-final{
+    display: flex;
+    flex-direction: column;
+}
+
+.chapt2-part1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 8vh;
+}
+.chapt2-part2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-bottom: 8vh;
+}
+.chapt3-part1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+    padding-bottom: 8vh;
+}
+.container h2{
+    font-size: 5vh;
+    padding-top: 8vh;
+}
